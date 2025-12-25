@@ -24,3 +24,7 @@ API поддерживает основные CRUD-операции и филь�
 ```bash
 pip install -r requirements.txt
 uvicorn main:app --reload
+
+Проект развёрнут в облачной среде Railway и доступен по ссылке:
+
+job-search-api-production-5fcd.up.railway.app
